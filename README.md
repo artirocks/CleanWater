@@ -6,12 +6,9 @@ Water quality maintenance is crucial in strategizing control cum preventive meas
 
 PROBLEM STATEMENT
 
-    Water is not getting effectively used according to the quality for
-    Drinking, Industrial, agriculture purpose
-    No way to know about the quality of Drinking Water supplied in bottles.
-    Monopoly of water supplier mafias
-    Several unauthorized suppliers leading to black money
-    Inefficient use of water
+    Water is not getting effectively used according to the quality for Drinking, Industrial, agriculture purpose
+    No way to know about the quality of Drinking Water supplied in bottles.Monopoly of water supplier mafias
+    Several unauthorized suppliers leading to black money.Inefficient use of water
     Ground water level is decreasing so there is a need to use water efficiently
     Water quality submitted reports might be faulty
 
