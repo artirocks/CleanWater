@@ -1,6 +1,6 @@
 const express = require('express');
 const next = require('next');
-//const Dagger = require("eth-dagger");
+const Dagger = require("eth-dagger");
 
 const app = next({
   dev: process.env.NODE_ENV !== 'production'
@@ -20,12 +20,12 @@ app.prepare().then(() => {
         return handle(req, res)
   });
 
-//  var dagger = new Dagger("mqtts://kovan.dagger.matic.network"); // dagger server
+ var dagger = new Dagger("mqtts://kovan.dagger.matic.network"); // dagger server
 
 
   server.listen(port, () => {
 
-    // fallback - use your fallback strategy (local node / hosted node + in-dapp id mgmt / fail)
+    fallback - use your fallback strategy (local node / hosted node + in-dapp id mgmt / fail)
     truffle_connect.web3 = new Web3(new Web3.providers.HttpProvider("http://localhost:7545"));
 
     console.log("Express Listening at http://localhost:" + port);
