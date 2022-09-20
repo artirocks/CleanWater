@@ -1,7 +1,5 @@
 
 pragma solidity ^0.5.0;
-
-//contract name is MyFirstPolygonContract 
 import './WRCToken.sol';
 contract WRCPolygonContract {
     address admin;
