@@ -1,6 +1,8 @@
-pragma solidity >= 0.4.23;
+//define which compiler to use
+pragma solidity ^0.5.0;
 
-contract WRCToken{
+//contract name is MyFirstPolygonContract 
+contract WRCPolygonContract {
 
 
   string public name = "WRC Token";
