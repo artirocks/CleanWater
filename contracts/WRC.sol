@@ -1,6 +1,10 @@
-pragma solidity >= 0.4.23;
+
+
+//define which compiler to use
+pragma solidity ^0.5.0;
 pragma experimental ABIEncoderV2;
-contract WRC {
+//contract name is MyFirstPolygonContract 
+contract WRCPolygonContract {
 
     //authority
     address public regulator;
